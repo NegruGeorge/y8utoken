@@ -1,0 +1,24 @@
+{
+  "instrToOriginalMap": [],
+  "otherInstrumentation": [],
+  "propertyMap": [],
+  "originalSourceList": [
+    "/home/negru/y8u/contracts/Lock.sol",
+    "/home/negru/y8u/contracts/Y8uDistributor.sol",
+    "/home/negru/y8u/contracts/Y8uERC20.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/access/Ownable.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/interfaces/draft-IERC6093.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/token/ERC20/ERC20.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/token/ERC20/IERC20.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Metadata.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/token/ERC20/extensions/IERC20Permit.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/utils/Address.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/utils/Context.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/utils/ReentrancyGuard.sol",
+    "/home/negru/y8u/node_modules/@openzeppelin/contracts/utils/cryptography/MerkleProof.sol"
+  ],
+  "instrSourceList": [],
+  "scribbleVersion": "0.7.1"
+}
